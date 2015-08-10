@@ -1,5 +1,5 @@
 gem 'rspec'
 gem 'selenium-webdriver'
 gem 'require_all'
-gem 'parallel_split_test'
+gem 'parallel_tests'
 gem 'sauce_whisk'
